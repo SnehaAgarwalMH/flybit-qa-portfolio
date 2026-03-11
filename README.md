@@ -1,58 +1,127 @@
-# 🧩 Flybit QA Portfolio
+# 🧩 Flybit QA Automation Portfolio
 
-Summary of professional **QA automation and web data processing** projects completed at **Flybit (March 2023 – December 2023)**.  
-All project source code is private due to confidentiality. This README provides an overview for professional review.
+Engineering portfolio documenting **QA automation systems and web data processing tools** developed at **Flybit (March 2023 – December 2023)**.
 
----
-
-## 🔹 Projects Overview
-
-### 1️⃣ Redmine-Driven Website Automation
-- Automated website workflows using live data from **Redmine**.
-- Built using **Java**, **Selenium**, and **TestNG**.
-- Streamlined QA operations by integrating Redmine test case tracking directly into web actions.
-- Improved overall test visibility and reduced manual coordination time.
+⚠️ Source code is private due to company confidentiality and internal platform policies.  
+This repository provides a **technical overview of systems, tools, and automation architecture** developed during my time at Flybit.
 
 ---
 
-### 2️⃣ Website Data Fetcher
-- Automated **data extraction from external websites** using **Java, Selenium, and JavaScript**.
-- Results saved in Excel/CSV formats for analysis.
-- Reduced manual effort in repetitive QA verification.
+# 🔹 Projects Overview
+
+## 1️⃣ Redmine-Driven Website Automation
+Developed an automation system that integrates **Redmine test management data with website testing workflows**.
+
+**Technologies**
+- Java
+- Selenium
+- TestNG
+
+**Capabilities**
+
+- Automated execution of test cases based on Redmine data
+- Direct synchronization between QA test tracking and automation scripts
+- Reduced manual coordination between QA documentation and testing execution
+- Improved visibility of test progress and validation results
 
 ---
 
-### 3️⃣ Binance & Bithumb Automation
-- Automated login, transaction simulation, and UI data capture for **Binance** and **Bithumb** platforms.
-- Parallelized execution using **multi-threaded Selenium scripts**.
-- Used for internal QA validation of financial transaction behavior and performance.
+## 2️⃣ Website Data Fetcher
+Developed an automated **web data extraction and processing system** for QA verification workflows.
+
+**Technologies**
+- Java
+- Selenium
+- JavaScript
+
+**Capabilities**
+
+- Automated extraction of data from multiple external websites
+- Structured output generation in **Excel / CSV formats**
+- Simplified repetitive QA verification processes
+- Reduced manual data collection effort
 
 ---
 
-### 4️⃣ Website Management Scripts
-- Custom automation utilities for web login, screenshot capture, and video recording of test sessions.
-- Enhanced debugging for dynamic website behaviors and regression tracking.
+## 3️⃣ Binance & Bithumb Automation
+Implemented automated testing workflows for **cryptocurrency exchange platforms**.
+
+**Capabilities**
+
+- Automated login and session management
+- Transaction workflow simulation
+- UI data extraction and validation
+- Performance monitoring for transaction flows
+
+**Engineering Features**
+
+- Parallel execution using **multi-threaded Selenium scripts**
+- Automated browser interaction for high-volume testing
+- Used for internal QA validation of financial transaction behavior
 
 ---
 
-## 🧰 Tech Stack
-- **Languages:** Java, JavaScript  
-- **Automation Tools:** Selenium, TestNG  
-- **Data Handling:** Apache POI (Excel), JSON  
-- **Project Management:** Redmine  
-- **Version Control:** Git, GitHub  
+## 4️⃣ Website Management Utilities
+Developed supporting automation utilities to enhance QA debugging and validation workflows.
+
+**Features**
+
+- Automated login workflows
+- Screenshot capture during test execution
+- Video recording of automated test sessions
+- Debugging support for dynamic website behavior
+- Regression tracking for UI changes
 
 ---
 
-## 🧠 Highlights
-✅ 4 major automation systems successfully deployed  
-✅ Significant reduction in manual validation time  
-✅ Integration between QA tools and real web environments  
+# 🔧 Engineering Focus
+
+- Web automation architecture
+- QA process automation
+- Data extraction and validation
+- Parallel automation execution
+- Integration between QA tools and web testing systems
 
 ---
 
-## 👩‍💻 Author
-Developed by **Sneha Agarwal**  
-QA Automation Engineer at Flybit  
+# 🧰 Tech Stack
+
+**Languages**  
+Java • JavaScript  
+
+**Automation Tools**  
+Selenium • TestNG  
+
+**Data Processing**  
+Apache POI (Excel) • JSON  
+
+**Project Management**  
+Redmine  
+
+**Version Control**  
+Git • GitHub  
+
+---
+
+# 📊 Key Contributions
+
+✔ Developed multiple automation systems for website testing  
+✔ Reduced manual QA validation workload  
+✔ Integrated QA management tools with automation workflows  
+✔ Implemented parallelized web testing infrastructure  
+
+---
+
+# 👩‍💻 Author
+
+**Sneha Agarwal**  
+QA Automation Engineer — Flybit  
+
+📍 Seoul, South Korea  
 📧 sneha.agarwalmh@gmail.com  
-📍 Seoul, South Korea
+
+LinkedIn  
+https://www.linkedin.com/in/sneha-agarwal-ba02241a9/
+
+GitHub  
+https://github.com/SnehaAgarwalMH
