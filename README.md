@@ -1,18 +1,20 @@
-# 🧩 Flybit QA Automation Portfolio
+# 🧩 Flybit Software Engineering & QA Automation Portfolio
 
-Engineering portfolio documenting **QA automation systems and web data processing tools** developed at **Flybit (March 2023 – December 2023)**.
+Engineering portfolio documenting **automation systems, data-processing tools, web integration workflows, and platform validation engineering** developed at **Flybit / Korean Digital Exchange (March 2023 – December 2023)**.
 
-⚠️ Source code is private due to company confidentiality and internal platform policies.  
-This repository provides a **technical overview of systems, tools, and automation architecture** developed during my time at Flybit.
+⚠️ Source code is private due to company confidentiality and internal policies.  
+This repository provides a technical overview of **systems, tools, and engineering contributions** without exposing proprietary implementation.
 
 ---
 
 # 🔹 Projects Overview
 
 ## 1️⃣ Redmine-Driven Website Automation
+
 Developed an automation system that integrates **Redmine test management data with website testing workflows**.
 
 **Technologies**
+
 - Java
 - Selenium
 - TestNG
@@ -27,9 +29,11 @@ Developed an automation system that integrates **Redmine test management data wi
 ---
 
 ## 2️⃣ Website Data Fetcher
-Developed an automated **web data extraction and processing system** for QA verification workflows.
+
+Developed an automated **web data extraction and processing system** supporting verification and reporting workflows.
 
 **Technologies**
+
 - Java
 - Selenium
 - JavaScript
@@ -37,13 +41,14 @@ Developed an automated **web data extraction and processing system** for QA veri
 **Capabilities**
 
 - Automated extraction of data from multiple external websites
-- Structured output generation in **Excel / CSV formats**
-- Simplified repetitive QA verification processes
+- Structured output generation in Excel / CSV formats
+- Simplified repetitive data verification processes
 - Reduced manual data collection effort
 
 ---
 
 ## 3️⃣ Binance & Bithumb Automation
+
 Implemented automated testing workflows for **cryptocurrency exchange platforms**.
 
 **Capabilities**
@@ -55,14 +60,16 @@ Implemented automated testing workflows for **cryptocurrency exchange platforms*
 
 **Engineering Features**
 
-- Parallel execution using **multi-threaded Selenium scripts**
+- Parallel execution using multi-threaded Selenium scripts
 - Automated browser interaction for high-volume testing
-- Used for internal QA validation of financial transaction behavior
+- Validation of financial transaction behavior
+- Reusable automation workflows for exchange-platform testing
 
 ---
 
 ## 4️⃣ Website Management Utilities
-Developed supporting automation utilities to enhance QA debugging and validation workflows.
+
+Developed supporting **automation utilities** to improve debugging, validation, and execution workflows.
 
 **Features**
 
@@ -76,52 +83,57 @@ Developed supporting automation utilities to enhance QA debugging and validation
 
 # 🔧 Engineering Focus
 
+- Java-based automation development
 - Web automation architecture
-- QA process automation
-- Data extraction and validation
+- Data extraction and processing
+- Platform integration and validation
 - Parallel automation execution
-- Integration between QA tools and web testing systems
+- Reusable automation utilities
+- Financial platform workflow validation
+- Integration between QA tools and web systems
 
 ---
 
 # 🧰 Tech Stack
 
 **Languages**  
-Java • JavaScript  
+Java • JavaScript
 
-**Automation Tools**  
-Selenium • TestNG  
+**Automation & Testing**  
+Selenium • TestNG
 
 **Data Processing**  
-Apache POI (Excel) • JSON  
+Apache POI (Excel) • CSV • JSON
 
 **Project Management**  
-Redmine  
+Redmine
 
 **Version Control**  
-Git • GitHub  
+Git • GitHub
 
 ---
 
 # 📊 Key Contributions
 
-✔ Developed multiple automation systems for website testing  
-✔ Reduced manual QA validation workload  
-✔ Integrated QA management tools with automation workflows  
-✔ Implemented parallelized web testing infrastructure  
+✔ Developed multiple automation systems for website and exchange-platform testing  
+✔ Built automated data extraction and processing workflows  
+✔ Integrated Redmine test-management data with automation execution  
+✔ Implemented parallel Selenium execution for high-volume testing  
+✔ Developed reusable utilities for debugging and regression workflows  
+✔ Reduced repetitive manual validation and data-collection work
 
 ---
 
 # 👩‍💻 Author
 
 **Sneha Agarwal**  
-QA Automation Engineer — Flybit  
+**Software QA Engineer — Flybit / Korean Digital Exchange**
 
 📍 Seoul, South Korea  
-📧 sneha.agarwalmh@gmail.com  
+📧 sneha.agarwalmh@gmail.com
 
-LinkedIn  
+**LinkedIn**  
 https://www.linkedin.com/in/sneha-agarwal-ba02241a9/
 
-GitHub  
+**GitHub**  
 https://github.com/SnehaAgarwalMH
